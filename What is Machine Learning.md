@@ -6,3 +6,7 @@
 `Machine Learning is said as a subset of artificial intelligence that is mainly concerned with the development of algorithms which allow a computer to learn from the data and past experiences on their own. The term machine learning was first introduced by Arthur Samuel in 1959. We can define it in a summarized way as:`
 
 **Machine learning enables a machine to automatically learn from data, improve performance from experiences, and predict things without being explicitly programmed.**
+
+`With the help of sample historical data, which is known as training data, machine learning algorithms build a mathematical model that helps in making predictions or decisions without being explicitly programmed. Machine learning brings computer science and statistics together for creating predictive models. Machine learning constructs or uses the algorithms that learn from historical data. The more we will provide the information, the higher will be the performance.`
+
+**A machine has the ability to learn if it can improve its performance by gaining more data.**
