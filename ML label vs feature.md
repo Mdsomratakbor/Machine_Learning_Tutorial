@@ -6,6 +6,14 @@
 **Feature**
 `A feature is an input value that describes the characteristics of such labels in datasets`
 
+### OR
+
+**Labels**
+`A label is the thing we're predicting—the y variable in simple linear regression. The label could be the future price of wheat, the kind of animal shown in a picture, the meaning of an audio clip, or just about anything.`
+
+**Features**
+`A feature is an input variable—the x variable in simple linear regression. A simple machine learning project might use a single feature, while a more sophisticated machine learning project could use millions of features, specified as`
+
 ### Examples
 
 `When ML models are used in real life, experts present input data with features to the computer. For example, in a factory, a conveyor belt moves a lot of tomatoes. The ML model captures the features of tomatoes by employing computer vision tools. If the model recognizes such tomato features as its color which is brown or black the label "rotten" is assigned to the fruit, if the color is red, yellow, or orange it means that the tomato is fresh. It is worth mentioning that this is a simplified approximated description of the process.`
